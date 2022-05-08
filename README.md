@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @smertlove
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me smertlove@yandex.ru
+Nothing here yet...
 
 <!---
 smertlove/smertlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
