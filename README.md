@@ -30,9 +30,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="80" height="80" title="Cpp"/>
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="80" height="80" title="Cpp"/>
+    <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/onqtam/awesome-cmake/blob/master/cmake-logo.svg" alt="CMake" width="80" height="80" title="CMake"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -65,9 +64,6 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
             alt="java" width="80" height="80" title="Java"/>
-    </a>
-    <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/onqtam/awesome-cmake/blob/master/cmake-logo.svg" alt="CMake" width="80" height="80" title="CMake"/>
     </a>
 </p>
 <h3>Languages:</h3>
