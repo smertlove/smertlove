@@ -59,8 +59,8 @@
             alt="mysql" width="80" height="80" />
     </a>
 </p>
-<h3>Languages:</h3>
 <p><div color="red">
+    <h3>Languages:</h3>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
             alt="RU" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
@@ -68,8 +68,8 @@
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
             alt="ZH" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="90" height="60" /><br></div>
-</p>
+            alt="SRP" width="90" height="60" /><br>
+</p></div>
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=smertlove&show_icons=true&locale=en&layout=compact"
