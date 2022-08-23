@@ -60,15 +60,15 @@
     </a>
 </p>
 <h3>Languages:</h3>
-<p style="color: red">
+<p>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
-            alt="RU" width="92" height="69" /> - native <br>
+            alt="RU" width="92" height="69" title="Russian - native"/>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
-            alt="ENG" width="92" height="69" /> - C1 <br>
+            alt="ENG" width="92" height="69" />
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
-            alt="ZH" width="92" height="69" /> - HSK/YCT 2 <br>
+            alt="ZH" width="92" height="69" /> - HSK/YCT 2 
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="92" height="69" /> - A1 <br>
+            alt="SRP" width="92" height="69" />
 </p>
 <p>
     <img align="left"
