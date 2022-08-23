@@ -60,7 +60,7 @@
     </a>
 </p>
 <h3>Languages:</h3>
-<p>
+<p><div color="red">
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
             alt="RU" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
@@ -68,7 +68,7 @@
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
             alt="ZH" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="90" height="60" /><br>
+            alt="SRP" width="90" height="60" /><br></div>
 </p>
 <p>
     <img align="left"
