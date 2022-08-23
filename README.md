@@ -61,14 +61,14 @@
 </p>
 <p><div color="red">
     <h3>Languages:</h3>
-    <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg"
-            alt="RU" width="90" height="60" /><br>
+    <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
+            alt="RU" width="92" height="69" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
-            alt="ENG" width="90" height="60" /><br>
+            alt="ENG" width="92" height="69" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
-            alt="ZH" width="90" height="60" /><br>
+            alt="ZH" width="92" height="69" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="90" height="60" /><br>
+            alt="SRP" width="92" height="69" /><br>
 </p></div>
 <p>
     <img align="left"
