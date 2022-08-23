@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill Soloshenko</h1>
-<h3 align="center">An enthusiastic backend developer and Python enjoyer from Russia</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left"> </p>
+<h2 align="center">An enthusiastic backend developer and Python enjoyer from Russia</h2>
 <h3 align="left">My main stack:</h3>
 <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -61,6 +59,17 @@
             alt="mysql" width="40" height="40" />
     </a>
 </p>
+<h3>Languages:</h3>
+<p>
+    <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
+            alt="mysql" width="40" height="40" />
+    <img src=""
+            alt="mysql" width="40" height="40" />
+    <img src=""
+            alt="mysql" width="40" height="40" />
+    <img src=""
+            alt="mysql" width="40" height="40" />
+</p>
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=smertlove&show_icons=true&locale=en&layout=compact"
@@ -70,3 +79,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=smertlove&show_icons=true&locale=en"
         alt="smertlove" />
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left"> </p>
