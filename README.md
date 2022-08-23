@@ -62,13 +62,13 @@
 <h3>Languages:</h3>
 <p>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
-            alt="RU" width="120" height="80" />
+            alt="RU" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
-            alt="ENG" width="120" height="80" />
+            alt="ENG" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
-            alt="ZH" width="120" height="80" />
+            alt="ZH" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="120" height="80" />
+            alt="SRP" width="90" height="60" /><br>
 </p>
 <p>
     <img align="left"
