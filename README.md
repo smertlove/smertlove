@@ -59,7 +59,7 @@
             alt="mysql" width="80" height="80" />
     </a>
 </p>
-<p><div color="red">
+<p color="red">
     <h3>Languages:</h3>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
             alt="RU" width="92" height="69" /><br>
@@ -69,7 +69,7 @@
             alt="ZH" width="92" height="69" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
             alt="SRP" width="92" height="69" /><br>
-</p></div>
+</p>
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=smertlove&show_icons=true&locale=en&layout=compact"
