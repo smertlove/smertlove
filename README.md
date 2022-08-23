@@ -64,11 +64,11 @@
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
             alt="RU" width="92" height="69" title="Russian - native"/>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
-            alt="ENG" width="92" height="69" />
+            alt="ENG" width="92" height="69" title="English - C1"/>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
-            alt="ZH" width="92" height="69" /> - HSK/YCT 2 
+            alt="ZH" width="92" height="69" title="Mandarin Chinese - HSK/YCT 2"/>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/rs.svg"
-            alt="SRP" width="92" height="69" />
+            alt="SRP" width="92" height="69" title="Serbian - A1"/>
 </p>
 <p>
     <img align="left"
