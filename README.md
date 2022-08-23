@@ -84,4 +84,5 @@
         alt="smertlove" />
 </p>
 <h3 align="left">Connect with me:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smertlove&" alt="smertlove" /></p>
 <p align="left"> </p>
