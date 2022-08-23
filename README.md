@@ -86,7 +86,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=smertlove&show_icons=true&locale=en"
         alt="smertlove" />
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
     <a href="mailto:smertlove@yandex.ru" target="_blank">
         <img align="center"
