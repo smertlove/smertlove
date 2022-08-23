@@ -59,10 +59,10 @@
             alt="mysql" width="80" height="80" />
     </a>
 </p>
-<p color="red">
+<p>
     <h3>Languages:</h3>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
-            alt="RU" width="92" height="69" /><br>
+            alt="RU" width="92" height="69" />
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
             alt="ENG" width="92" height="69" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"
