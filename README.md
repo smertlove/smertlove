@@ -85,7 +85,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://vk.com/smertlove" target="blank">
+    <a href="https://vk.com/smertlove" target="_blank">
         <img align="center"
             src="https://github.com/VKCOM/icons/blob/master/src/svg/48/logo_vk_48.svg"
             alt="qweqweqwe" height="30" width="40" />
