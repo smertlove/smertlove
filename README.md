@@ -61,7 +61,7 @@
 </p>
 <p><div color="red">
     <h3>Languages:</h3>
-    <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
+    <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg"
             alt="RU" width="90" height="60" /><br>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"
             alt="ENG" width="90" height="60" /><br>
