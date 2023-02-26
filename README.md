@@ -91,21 +91,21 @@
     <a href="mailto:smertlove@yandex.ru" target="_blank">
         <img align="center"
             src="https://github.com/sboerrigter/svg-icons/blob/master/mail.svg"
-            alt="qweqweqwe" height="30" width="40" />
+            alt="mail me" height="30" width="40" />
     </a>
     <a href="https://vk.com/smertlove" target="_blank">
         <img align="center"
             src="https://github.com/VKCOM/icons/blob/master/src/svg/48/logo_vk_48.svg"
-            alt="qweqweqwe" height="30" width="40" />
+            alt="VK" height="30" width="40" />
     </a>
     <a href="https://t.me/Admiral_Tvoei_Lubvi" target="_blank">
         <img align="center"
             src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/regular/paper-plane.svg"
-            alt="qweqweqwe" height="30" width="40" />
+            alt="Telegram" height="30" width="40" />
     </a>
     <a href="https://wa.me/79017853835" target="_blank">
         <img align="center"
             src="https://github.com/voltidev/font-awesome-svg/blob/master/SVG/whatsapp.svg"
-            alt="qweqweqwe" height="30" width="40" />
+            alt="WhatsApp" height="30" width="40" />
     </a>
 </p>
