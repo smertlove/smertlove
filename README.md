@@ -8,7 +8,7 @@
             alt="python" width="80" height="80" title="Python"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Scikit_learn_logo_small.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit-learn" width="80" height="80" title="Python"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
