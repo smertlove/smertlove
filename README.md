@@ -7,6 +7,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="80" height="80" title="Python"/>
     </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Scikit_learn_logo_small.svg"
+            alt="scikit-learn" width="80" height="80" title="Python"/>
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
             height="80" title="C"/>
@@ -19,8 +23,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="git"/>
     </a>
 </p>
-
-### Other technologies I'm familiar with:
 
 ### Databases
 
