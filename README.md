@@ -22,26 +22,23 @@
 
 ### Other technologies I'm familiar with:
 
-#### Databases
+### Databases
 
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="80" height="80" title="MySQL"/>
     </a>
-
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"
             alt="postgresql" width="80" height="80" title="MySQL"/>
     </a>
-
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80" title="SQLite"/>
     </a>
-
 </p>
 
-#### Web
+### Web
 
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -62,7 +59,7 @@
 </p>
 
 
-#### Languages:
+### Languages:
 <p>
     <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"
             alt="RU" width="92" height="69" title="Russian - native"/>
