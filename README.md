@@ -9,11 +9,15 @@
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-            alt="scikit-learn" width="80" height="80" title="Python"/>
+            alt="scikit-learn" width="80" height="80" title="sklearn"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1163px-NumPy_logo.svg.png"
-            alt="numpy" width="160" height="80" title="Python"/>
+        <img src="https://numpy.org/images/logo.svg"
+            alt="numpy" width="160" height="80" title="Numpy"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg"
+            alt="numpy" width="160" height="80" title="Pandas"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
@@ -37,7 +41,7 @@
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"
-            alt="postgresql" width="80" height="80" title="MySQL"/>
+            alt="postgresql" width="80" height="80" title="PosthreSQL"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80" title="SQLite"/>
