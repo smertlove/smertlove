@@ -13,7 +13,7 @@
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1163px-NumPy_logo.svg.png"
-            alt="numpy" width="80" height="80" title="Python"/>
+            alt="numpy" width="160" height="80" title="Python"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
