@@ -7,9 +7,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="80" height="80" title="Python"/>
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit-learn" width="80" height="80" title="Python"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1163px-NumPy_logo.svg.png"
+            alt="numpy" width="80" height="80" title="Python"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
