@@ -13,11 +13,11 @@
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg"
-            alt="numpy" width="160" height="80" title="Numpy"/>
+            alt="numpy" width="80" height="80" title="Numpy"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg"
-            alt="numpy" width="160" height="80" title="Pandas"/>
+            alt="numpy" width="80" height="80" title="Pandas"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
