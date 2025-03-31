@@ -36,20 +36,24 @@
 ### Infrastructure:
 
 <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
-            alt="Docker" width="120" height="80" title="Docker"/>
-    </a>
-    <a href="https://wandb.ai/site/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg"
-            alt="WandB" width="140" height="80" title="WandB"/>
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="80" height="80" title="Linux"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="git"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
+            alt="Docker" width="120" height="80" title="Docker"/>
+    </a>
+    <a href="https://clear.ml/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/clearml/clearml/blob/master/docs/clearml-logo.svg#gh-light-mode-only"
+            alt="ClearML" width="140" height="80" title="ClearML"/>
+    </a>
+    <a href="https://wandb.ai/site/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg"
+            alt="WandB" width="140" height="80" title="WandB"/>
     </a>
 </p>
 
