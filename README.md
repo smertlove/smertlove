@@ -27,9 +27,6 @@
         <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg"
             alt="numpy" width="80" height="80" title="Pandas"/>
     </a>
-    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-        NLTK
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
             height="80" title="C"/>
