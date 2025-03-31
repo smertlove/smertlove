@@ -45,7 +45,7 @@
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
-            alt="Docker" width="120" height="80" title="Docker"/>
+            alt="Docker" width="140" height="80" title="Docker"/>
     </a>
     <a href="https://clear.ml/" target="_blank" rel="noreferrer">
         <img src="https://github.com/clearml/clearml/blob/master/docs/clearml-logo.svg#gh-light-mode-only"
