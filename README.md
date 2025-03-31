@@ -13,7 +13,7 @@
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
         <img src="https://keras.io/img/logo.png"
-            alt="Keras" width="80" height="80" title="Keras"/>
+            alt="Keras" width="140" height="80" title="Keras"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
