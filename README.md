@@ -7,6 +7,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="80" height="80" title="Python"/>
     </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg"
+            alt="pytorch" width="140" height="80" title="pytorch"/>
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://keras.io/img/logo.png"
+            alt="Keras" width="80" height="80" title="Keras"/>
+    </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit-learn" width="80" height="80" title="sklearn"/>
