@@ -23,13 +23,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80"
             height="80" title="C"/>
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="80" height="80" title="Linux"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="git"/>
-    </a>
 </p>
 
 ### Infrastructure:
@@ -41,11 +34,11 @@
     </a>
     <a href="https://wandb.ai/site/" target="_blank" rel="noreferrer">
         <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg"
-            alt="WandB" width="120" height="80" title="WandB"/>
+            alt="WandB" width="140" height="80" title="WandB"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="80" height="80" title="Linux"/>
+            width="40" height="80" title="Linux"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="git"/>
