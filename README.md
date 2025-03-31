@@ -12,12 +12,12 @@
             alt="pytorch" width="140" height="80" title="pytorch"/>
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://keras.io/img/logo.png"
-            alt="Keras" width="180" height="80" title="Keras"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+            alt="Keras" width="80" height="80" title="Keras"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-            alt="scikit-learn" width="120" height="80" title="sklearn"/>
+            alt="scikit-learn" width="100" height="80" title="sklearn"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg"
