@@ -32,6 +32,34 @@
     </a>
 </p>
 
+### Infrastructure:
+
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="80" height="80" title="Python"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+            alt="scikit-learn" width="80" height="80" title="sklearn"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
+            alt="Docker" width="80" height="80" title="Docker"/>
+    </a>
+    <a href="https://wandb.ai/site/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg"
+            alt="WandB" width="80" height="80" title="WandB"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="80" height="80" title="Linux"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="git"/>
+    </a>
+</p>
+
 ### Databases
 
 <p align="left">
