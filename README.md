@@ -89,7 +89,7 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="80" height="80" title="CSS 3"/>
+            alt="css3" width="140" height="80" title="CSS 3"/>
     </a>
 </p>
 
