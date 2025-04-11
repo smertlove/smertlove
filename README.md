@@ -69,7 +69,7 @@
             alt="postgresql" width="80" height="80" title="PosthreSQL"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80" title="SQLite"/>
+        <img src="https://sqlite.org/images/sqlite370_banner.svg" alt="sqlite" width="80" height="80" title="SQLite"/>
     </a>
 </p>
 
